@@ -153,8 +153,8 @@ footer p {
     font-size: 12px;
 }
 
-#kaygb-blog-a,
-#kaygb-mail-a {
+#abudu-blog-a,
+#abudu-mail-a {
     display: none;
 }
 
@@ -206,12 +206,12 @@ footer p {
     .card {
         padding: 20px;
     }
-    #kaygb-blog-a,
-    #kaygb-mail-a {
+    #abudu-blog-a,
+    #abudu-mail-a {
         display: block;
     }
-    #kaygb-blog,
-    #kaygb-mail {
+    #abudu-blog,
+    #abudu-mail {
         display: none;
     }
 }
